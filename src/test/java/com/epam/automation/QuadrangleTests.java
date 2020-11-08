@@ -20,9 +20,6 @@ public class QuadrangleTests {
             PointFactory.generatePoint(9),
             PointFactory.generatePoint(12));
 
-    public QuadrangleTests() throws IOException {
-    }
-
     @Test
     public void testPointFactoryGeneratesValidPoints() {
         double coordinate1 = point.getX_AXIS_COORDINATE();
