@@ -1,0 +1,842 @@
+2020-11-06 11:16:39,742 WARN  [main] Incorrect line in .txt file for creating object Point : 31ccx . Coordinates should not contain letters.
+2020-11-06 11:16:39,745 WARN  [main] Incorrect line in .txt file for creating object Point : 31zxcv . Coordinates should not contain letters.
+2020-11-06 11:16:39,745 INFO  [main] Correct line in .txt file for creating object Point : 13.30 .
+2020-11-06 11:16:39,746 WARN  [main] Incorrect line in .txt file for creating object Point : 3vvv . Coordinates should not contain letters.
+2020-11-06 11:16:39,747 INFO  [main] Correct line in .txt file for creating object Point : 13.26 .
+2020-11-06 11:16:39,747 INFO  [main] Correct line in .txt file for creating object Point : 131 .
+2020-11-06 11:16:39,748 INFO  [main] Correct line in .txt file for creating object Point : 1 .
+2020-11-06 11:16:39,749 WARN  [main] Incorrect line in .txt file for creating object Point : 31ccx . Coordinates should not contain letters.
+2020-11-06 11:16:39,749 WARN  [main] Incorrect line in .txt file for creating object Point : 31zxcv . Coordinates should not contain letters.
+2020-11-06 11:16:39,750 INFO  [main] Correct line in .txt file for creating object Point : 13.30 .
+2020-11-06 11:16:39,750 WARN  [main] Incorrect line in .txt file for creating object Point : 3vvv . Coordinates should not contain letters.
+2020-11-06 11:16:39,750 INFO  [main] Correct line in .txt file for creating object Point : 13.26 .
+2020-11-06 11:16:39,750 INFO  [main] Correct line in .txt file for creating object Point : 131 .
+2020-11-06 11:16:39,751 INFO  [main] Correct line in .txt file for creating object Point : 1 .
+2020-11-06 11:16:39,973 DEBUG jboss.logging [main] Logging Provider: org.jboss.logging.Log4j2LoggerProvider
+2020-11-06 11:16:39,974 INFO util.Version [main] HV000001: Hibernate Validator 6.1.0.Final
+2020-11-06 11:16:40,029 DEBUG resolver.TraversableResolvers [main] Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2020-11-06 11:16:40,035 DEBUG config.ValidationXmlParser [main] Trying to load META-INF/validation.xml for XML based Validator configuration.
+2020-11-06 11:16:40,036 DEBUG config.ResourceLoaderHelper [main] Trying to load META-INF/validation.xml via TCCL
+2020-11-06 11:16:40,037 DEBUG config.ResourceLoaderHelper [main] Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2020-11-06 11:16:40,037 DEBUG config.ValidationXmlParser [main] No META-INF/validation.xml found. Using annotation based configuration only.
+2020-11-06 11:16:40,095 DEBUG messageinterpolation.ResourceBundleMessageInterpolator [main] Loaded expression factory via original TCCL
+2020-11-06 11:16:40,304 DEBUG engine.ValidatorFactoryConfigurationHelper [main] HV000252: Using org.hibernate.validator.internal.engine.DefaultPropertyNodeNameProvider as property node name provider.
+2020-11-06 11:16:40,310 DEBUG engine.ValidatorFactoryConfigurationHelper [main] HV000234: Using org.hibernate.validator.messageinterpolation.ResourceBundleMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2020-11-06 11:16:40,310 DEBUG engine.ValidatorFactoryConfigurationHelper [main] HV000234: Using org.hibernate.validator.internal.engine.resolver.TraverseAllTraversableResolver as ValidatorFactory-scoped traversable resolver.
+2020-11-06 11:16:40,310 DEBUG engine.ValidatorFactoryConfigurationHelper [main] HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2020-11-06 11:16:40,310 DEBUG engine.ValidatorFactoryConfigurationHelper [main] HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2020-11-06 11:16:40,311 DEBUG engine.ValidatorFactoryConfigurationHelper [main] HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2020-11-06 11:16:40,377 WARN  [main] Incorrect line in .txt file for creating object Point : 31ccx . Coordinates should not contain letters.
+2020-11-06 11:16:40,377 WARN  [main] Incorrect line in .txt file for creating object Point : 31zxcv . Coordinates should not contain letters.
+2020-11-06 11:16:40,377 INFO  [main] Correct line in .txt file for creating object Point : 13.30 .
+2020-11-06 11:27:03,042 WARN  [main] Incorrect line in .txt file for creating object Point : 31ccx . Coordinates should not contain letters.
+2020-11-06 11:27:03,058 WARN  [main] Incorrect line in .txt file for creating object Point : 31zxcv . Coordinates should not contain letters.
+2020-11-06 11:27:03,059 INFO  [main] Correct line in .txt file for creating object Point : 13.30 .
+2020-11-06 11:27:03,060 WARN  [main] Incorrect line in .txt file for creating object Point : 3vvv . Coordinates should not contain letters.
+2020-11-06 11:27:03,060 INFO  [main] Correct line in .txt file for creating object Point : 13.26 .
+2020-11-06 11:27:03,061 INFO  [main] Correct line in .txt file for creating object Point : 131 .
+2020-11-06 11:27:03,061 INFO  [main] Correct line in .txt file for creating object Point : 1 .
+2020-11-06 11:27:03,062 WARN  [main] Incorrect line in .txt file for creating object Point : 31ccx . Coordinates should not contain letters.
+2020-11-06 11:27:03,062 WARN  [main] Incorrect line in .txt file for creating object Point : 31zxcv . Coordinates should not contain letters.
+2020-11-06 11:27:03,062 INFO  [main] Correct line in .txt file for creating object Point : 13.30 .
+2020-11-06 11:27:03,063 WARN  [main] Incorrect line in .txt file for creating object Point : 3vvv . Coordinates should not contain letters.
+2020-11-06 11:27:03,063 INFO  [main] Correct line in .txt file for creating object Point : 13.26 .
+2020-11-06 11:27:03,063 INFO  [main] Correct line in .txt file for creating object Point : 131 .
+2020-11-06 11:27:03,064 INFO  [main] Correct line in .txt file for creating object Point : 1 .
+2020-11-06 11:27:03,112 WARN  [main] Incorrect line in .txt file for creating object Point : 31ccx . Coordinates should not contain letters.
+2020-11-06 11:27:03,112 WARN  [main] Incorrect line in .txt file for creating object Point : 31zxcv . Coordinates should not contain letters.
+2020-11-06 11:27:03,113 INFO  [main] Correct line in .txt file for creating object Point : 13.30 .
+2020-11-06 11:31:54,732 WARN  [main] Incorrect line in .txt file for creating object Point : 31ccx. Coordinates should not contain letters.
+2020-11-06 11:31:54,736 WARN  [main] Incorrect line in .txt file for creating object Point : 31zxcv. Coordinates should not contain letters.
+2020-11-06 11:31:54,736 INFO  [main] Correct line in .txt file for creating object Point : 13.30 .
+2020-11-06 11:31:54,736 INFO  [main] Correct line in .txt file for creating object Point : 13.30 .
+2020-11-06 11:31:54,745 WARN  [main] Incorrect line in .txt file for creating object Point : 3vvv. Coordinates should not contain letters.
+2020-11-06 11:31:54,746 INFO  [main] Correct line in .txt file for creating object Point : 13.26 .
+2020-11-06 11:31:54,746 INFO  [main] Correct line in .txt file for creating object Point : 13.26 .
+2020-11-06 11:31:54,746 INFO  [main] Correct line in .txt file for creating object Point : 131 .
+2020-11-06 11:31:54,747 INFO  [main] Correct line in .txt file for creating object Point : 131 .
+2020-11-06 11:31:54,747 INFO  [main] Correct line in .txt file for creating object Point : 1 .
+2020-11-06 11:31:54,747 INFO  [main] Correct line in .txt file for creating object Point : 1 .
+2020-11-06 11:31:54,749 WARN  [main] Incorrect line in .txt file for creating object Point : 31ccx. Coordinates should not contain letters.
+2020-11-06 11:31:54,750 WARN  [main] Incorrect line in .txt file for creating object Point : 31zxcv. Coordinates should not contain letters.
+2020-11-06 11:31:54,750 INFO  [main] Correct line in .txt file for creating object Point : 13.30 .
+2020-11-06 11:31:54,751 INFO  [main] Correct line in .txt file for creating object Point : 13.30 .
+2020-11-06 11:31:54,752 WARN  [main] Incorrect line in .txt file for creating object Point : 3vvv. Coordinates should not contain letters.
+2020-11-06 11:31:54,752 INFO  [main] Correct line in .txt file for creating object Point : 13.26 .
+2020-11-06 11:31:54,753 INFO  [main] Correct line in .txt file for creating object Point : 13.26 .
+2020-11-06 11:31:54,753 INFO  [main] Correct line in .txt file for creating object Point : 131 .
+2020-11-06 11:31:54,753 INFO  [main] Correct line in .txt file for creating object Point : 131 .
+2020-11-06 11:31:54,754 INFO  [main] Correct line in .txt file for creating object Point : 1 .
+2020-11-06 11:31:54,754 INFO  [main] Correct line in .txt file for creating object Point : 1 .
+2020-11-06 11:31:54,806 WARN  [main] Incorrect line in .txt file for creating object Point : 31ccx. Coordinates should not contain letters.
+2020-11-06 11:31:54,806 WARN  [main] Incorrect line in .txt file for creating object Point : 31zxcv. Coordinates should not contain letters.
+2020-11-06 11:31:54,807 INFO  [main] Correct line in .txt file for creating object Point : 13.30 .
+2020-11-06 11:31:54,807 INFO  [main] Correct line in .txt file for creating object Point : 13.30 .
+2020-11-06 11:33:01,598 WARN  [main] Incorrect line in .txt file for creating object Point : 31ccx. Coordinates should not contain letters.
+2020-11-06 11:33:01,601 WARN  [main] Incorrect line in .txt file for creating object Point : 31zxcv. Coordinates should not contain letters.
+2020-11-06 11:33:01,602 INFO  [main] Correct line in .txt file for creating object Point : 13.3 .
+2020-11-06 11:33:01,603 INFO  [main] Correct line in .txt file for creating object Point : 13.26 .
+2020-11-06 11:33:01,604 WARN  [main] Incorrect line in .txt file for creating object Point : 3vvv. Coordinates should not contain letters.
+2020-11-06 11:33:01,605 INFO  [main] Correct line in .txt file for creating object Point : 13.26 .
+2020-11-06 11:33:01,606 INFO  [main] Correct line in .txt file for creating object Point : 131.0 .
+2020-11-06 11:33:01,606 INFO  [main] Correct line in .txt file for creating object Point : 131.0 .
+2020-11-06 11:33:01,606 INFO  [main] Correct line in .txt file for creating object Point : 3.0 .
+2020-11-06 11:33:01,607 INFO  [main] Correct line in .txt file for creating object Point : 1.0 .
+2020-11-06 11:33:01,607 INFO  [main] Correct line in .txt file for creating object Point : 31.0 .
+2020-11-06 11:33:01,608 WARN  [main] Incorrect line in .txt file for creating object Point : 31ccx. Coordinates should not contain letters.
+2020-11-06 11:33:01,608 WARN  [main] Incorrect line in .txt file for creating object Point : 31zxcv. Coordinates should not contain letters.
+2020-11-06 11:33:01,609 INFO  [main] Correct line in .txt file for creating object Point : 13.3 .
+2020-11-06 11:33:01,609 INFO  [main] Correct line in .txt file for creating object Point : 13.26 .
+2020-11-06 11:33:01,609 WARN  [main] Incorrect line in .txt file for creating object Point : 3vvv. Coordinates should not contain letters.
+2020-11-06 11:33:01,609 INFO  [main] Correct line in .txt file for creating object Point : 13.26 .
+2020-11-06 11:33:01,610 INFO  [main] Correct line in .txt file for creating object Point : 131.0 .
+2020-11-06 11:33:01,610 INFO  [main] Correct line in .txt file for creating object Point : 131.0 .
+2020-11-06 11:33:01,610 INFO  [main] Correct line in .txt file for creating object Point : 3.0 .
+2020-11-06 11:33:01,610 INFO  [main] Correct line in .txt file for creating object Point : 1.0 .
+2020-11-06 11:33:01,611 INFO  [main] Correct line in .txt file for creating object Point : 31.0 .
+2020-11-06 11:33:01,664 WARN  [main] Incorrect line in .txt file for creating object Point : 31ccx. Coordinates should not contain letters.
+2020-11-06 11:33:01,665 WARN  [main] Incorrect line in .txt file for creating object Point : 31zxcv. Coordinates should not contain letters.
+2020-11-06 11:33:01,665 INFO  [main] Correct line in .txt file for creating object Point : 13.3 .
+2020-11-06 11:33:01,665 INFO  [main] Correct line in .txt file for creating object Point : 13.26 .
+2020-11-06 11:35:12,611 WARN  [main] Incorrect line in .txt file for creating object Point : 31ccx. Coordinates should not contain letters.
+2020-11-06 11:35:12,615 WARN  [main] Incorrect line in .txt file for creating object Point : 31zxcv. Coordinates should not contain letters.
+2020-11-06 11:35:12,616 INFO  [main] Correct line in .txt file for creating object Point : 13.3.
+2020-11-06 11:35:12,616 INFO  [main] Correct line in .txt file for creating object Point : 13.26.
+2020-11-06 11:35:12,623 WARN  [main] Incorrect line in .txt file for creating object Point : 3vvv. Coordinates should not contain letters.
+2020-11-06 11:35:12,625 INFO  [main] Correct line in .txt file for creating object Point : 13.26.
+2020-11-06 11:35:12,625 INFO  [main] Correct line in .txt file for creating object Point : 131.0.
+2020-11-06 11:35:12,625 INFO  [main] Correct line in .txt file for creating object Point : 131.0.
+2020-11-06 11:35:12,626 INFO  [main] Correct line in .txt file for creating object Point : 3.0.
+2020-11-06 11:35:12,626 INFO  [main] Correct line in .txt file for creating object Point : 1.0.
+2020-11-06 11:35:12,626 INFO  [main] Correct line in .txt file for creating object Point : 31.0.
+2020-11-06 11:35:12,628 WARN  [main] Incorrect line in .txt file for creating object Point : 31ccx. Coordinates should not contain letters.
+2020-11-06 11:35:12,628 WARN  [main] Incorrect line in .txt file for creating object Point : 31zxcv. Coordinates should not contain letters.
+2020-11-06 11:35:12,628 INFO  [main] Correct line in .txt file for creating object Point : 13.3.
+2020-11-06 11:35:12,628 INFO  [main] Correct line in .txt file for creating object Point : 13.26.
+2020-11-06 11:35:12,629 WARN  [main] Incorrect line in .txt file for creating object Point : 3vvv. Coordinates should not contain letters.
+2020-11-06 11:35:12,629 INFO  [main] Correct line in .txt file for creating object Point : 13.26.
+2020-11-06 11:35:12,629 INFO  [main] Correct line in .txt file for creating object Point : 131.0.
+2020-11-06 11:35:12,630 INFO  [main] Correct line in .txt file for creating object Point : 131.0.
+2020-11-06 11:35:12,630 INFO  [main] Correct line in .txt file for creating object Point : 3.0.
+2020-11-06 11:35:12,630 INFO  [main] Correct line in .txt file for creating object Point : 1.0.
+2020-11-06 11:35:12,630 INFO  [main] Correct line in .txt file for creating object Point : 31.0.
+2020-11-06 11:35:12,689 WARN  [main] Incorrect line in .txt file for creating object Point : 31ccx. Coordinates should not contain letters.
+2020-11-06 11:35:12,690 WARN  [main] Incorrect line in .txt file for creating object Point : 31zxcv. Coordinates should not contain letters.
+2020-11-06 11:35:12,690 INFO  [main] Correct line in .txt file for creating object Point : 13.3.
+2020-11-06 11:35:12,690 INFO  [main] Correct line in .txt file for creating object Point : 13.26.
+2020-11-06 11:40:43,914 INFO  [main] Correct line in .txt file for creating object Point : 4.0.
+2020-11-06 11:40:43,921 INFO  [main] Correct line in .txt file for creating object Point : 5.0.
+2020-11-06 11:40:43,923 INFO  [main] Correct line in .txt file for creating object Point : 7.0.
+2020-11-06 11:40:43,924 INFO  [main] Correct line in .txt file for creating object Point : 8.0.
+2020-11-06 11:40:43,924 INFO  [main] Correct line in .txt file for creating object Point : 10.0.
+2020-11-06 11:40:43,924 INFO  [main] Correct line in .txt file for creating object Point : 11.0.
+2020-11-06 11:40:43,925 INFO  [main] Correct line in .txt file for creating object Point : 13.0.
+2020-11-06 11:40:43,925 INFO  [main] Correct line in .txt file for creating object Point : 14.0.
+2020-11-06 11:40:43,926 INFO  [main] Correct line in .txt file for creating object Point : 4.0.
+2020-11-06 11:40:43,926 INFO  [main] Correct line in .txt file for creating object Point : 5.0.
+2020-11-06 11:40:43,926 INFO  [main] Correct line in .txt file for creating object Point : 7.0.
+2020-11-06 11:40:43,927 INFO  [main] Correct line in .txt file for creating object Point : 8.0.
+2020-11-06 11:40:43,927 INFO  [main] Correct line in .txt file for creating object Point : 10.0.
+2020-11-06 11:40:43,927 INFO  [main] Correct line in .txt file for creating object Point : 11.0.
+2020-11-06 11:40:43,928 INFO  [main] Correct line in .txt file for creating object Point : 13.0.
+2020-11-06 11:40:43,928 INFO  [main] Correct line in .txt file for creating object Point : 14.0.
+2020-11-06 11:40:43,989 INFO  [main] Correct line in .txt file for creating object Point : 4.0.
+2020-11-06 11:40:43,989 INFO  [main] Correct line in .txt file for creating object Point : 5.0.
+2020-11-06 11:41:17,600 INFO  [main] Correct line in .txt file for creating object Point : 4.0.
+2020-11-06 11:41:17,604 INFO  [main] Correct line in .txt file for creating object Point : 5.0.
+2020-11-06 11:41:17,606 INFO  [main] Correct line in .txt file for creating object Point : 7.0.
+2020-11-06 11:41:17,606 INFO  [main] Correct line in .txt file for creating object Point : 8.0.
+2020-11-06 11:41:17,607 INFO  [main] Correct line in .txt file for creating object Point : 10.0.
+2020-11-06 11:41:17,607 INFO  [main] Correct line in .txt file for creating object Point : 11.0.
+2020-11-06 11:41:17,607 INFO  [main] Correct line in .txt file for creating object Point : 13.0.
+2020-11-06 11:41:17,607 INFO  [main] Correct line in .txt file for creating object Point : 14.0.
+2020-11-06 11:41:17,608 INFO  [main] Correct line in .txt file for creating object Point : 4.0.
+2020-11-06 11:41:17,609 INFO  [main] Correct line in .txt file for creating object Point : 5.0.
+2020-11-06 11:41:17,609 INFO  [main] Correct line in .txt file for creating object Point : 7.0.
+2020-11-06 11:41:17,609 INFO  [main] Correct line in .txt file for creating object Point : 8.0.
+2020-11-06 11:41:17,610 INFO  [main] Correct line in .txt file for creating object Point : 10.0.
+2020-11-06 11:41:17,610 INFO  [main] Correct line in .txt file for creating object Point : 11.0.
+2020-11-06 11:41:17,610 INFO  [main] Correct line in .txt file for creating object Point : 13.0.
+2020-11-06 11:41:17,610 INFO  [main] Correct line in .txt file for creating object Point : 14.0.
+2020-11-06 11:41:17,659 INFO  [main] Correct line in .txt file for creating object Point : 4.0.
+2020-11-06 11:41:17,659 INFO  [main] Correct line in .txt file for creating object Point : 5.0.
+2020-11-06 12:17:44,462 INFO  [main] Correct line in .txt file for creating object Point : 4.0.
+2020-11-06 12:17:44,466 INFO  [main] Correct line in .txt file for creating object Point : 5.0.
+2020-11-06 12:17:44,467 INFO  [main] Correct line in .txt file for creating object Point : 7.0.
+2020-11-06 12:17:44,467 INFO  [main] Correct line in .txt file for creating object Point : 8.0.
+2020-11-06 12:17:44,468 INFO  [main] Correct line in .txt file for creating object Point : 10.0.
+2020-11-06 12:17:44,468 INFO  [main] Correct line in .txt file for creating object Point : 11.0.
+2020-11-06 12:17:44,468 INFO  [main] Correct line in .txt file for creating object Point : 13.0.
+2020-11-06 12:17:44,469 INFO  [main] Correct line in .txt file for creating object Point : 14.0.
+2020-11-06 12:17:44,470 INFO  [main] Correct line in .txt file for creating object Point : 4.0.
+2020-11-06 12:17:44,471 INFO  [main] Correct line in .txt file for creating object Point : 5.0.
+2020-11-06 12:17:44,471 INFO  [main] Correct line in .txt file for creating object Point : 7.0.
+2020-11-06 12:17:44,472 INFO  [main] Correct line in .txt file for creating object Point : 8.0.
+2020-11-06 12:17:44,473 INFO  [main] Correct line in .txt file for creating object Point : 10.0.
+2020-11-06 12:17:44,473 INFO  [main] Correct line in .txt file for creating object Point : 11.0.
+2020-11-06 12:17:44,473 INFO  [main] Correct line in .txt file for creating object Point : 13.0.
+2020-11-06 12:17:44,473 INFO  [main] Correct line in .txt file for creating object Point : 14.0.
+2020-11-06 12:17:44,542 INFO  [main] Correct line in .txt file for creating object Point : 4.0.
+2020-11-06 12:17:44,543 INFO  [main] Correct line in .txt file for creating object Point : 5.0.
+2020-11-06 12:18:10,682 WARN  [main] Incorrect line in .txt file for creating object Point : 4xx. Coordinates should not contain letters.
+2020-11-06 12:18:10,685 INFO  [main] Correct line in .txt file for creating object Point : 6.0.
+2020-11-06 12:18:10,686 INFO  [main] Correct line in .txt file for creating object Point : 7.0.
+2020-11-06 12:18:10,687 INFO  [main] Correct line in .txt file for creating object Point : 7.0.
+2020-11-06 12:18:10,687 INFO  [main] Correct line in .txt file for creating object Point : 8.0.
+2020-11-06 12:18:10,687 INFO  [main] Correct line in .txt file for creating object Point : 10.0.
+2020-11-06 12:18:10,688 INFO  [main] Correct line in .txt file for creating object Point : 11.0.
+2020-11-06 12:18:10,688 INFO  [main] Correct line in .txt file for creating object Point : 13.0.
+2020-11-06 12:18:10,688 INFO  [main] Correct line in .txt file for creating object Point : 14.0.
+2020-11-06 12:18:10,690 WARN  [main] Incorrect line in .txt file for creating object Point : 4xx. Coordinates should not contain letters.
+2020-11-06 12:18:10,690 INFO  [main] Correct line in .txt file for creating object Point : 6.0.
+2020-11-06 12:18:10,690 INFO  [main] Correct line in .txt file for creating object Point : 7.0.
+2020-11-06 12:18:10,690 INFO  [main] Correct line in .txt file for creating object Point : 7.0.
+2020-11-06 12:18:10,691 INFO  [main] Correct line in .txt file for creating object Point : 8.0.
+2020-11-06 12:18:10,691 INFO  [main] Correct line in .txt file for creating object Point : 10.0.
+2020-11-06 12:18:10,691 INFO  [main] Correct line in .txt file for creating object Point : 11.0.
+2020-11-06 12:18:10,691 INFO  [main] Correct line in .txt file for creating object Point : 13.0.
+2020-11-06 12:18:10,691 INFO  [main] Correct line in .txt file for creating object Point : 14.0.
+2020-11-06 12:18:10,738 WARN  [main] Incorrect line in .txt file for creating object Point : 4xx. Coordinates should not contain letters.
+2020-11-06 12:18:10,738 INFO  [main] Correct line in .txt file for creating object Point : 6.0.
+2020-11-06 12:18:10,738 INFO  [main] Correct line in .txt file for creating object Point : 7.0.
+2020-11-06 12:19:04,290 WARN  [main] Incorrect line in .txt file for creating object Point : 5xx. Coordinates should not contain letters.
+2020-11-06 12:19:04,294 INFO  [main] Correct line in .txt file for creating object Point : 6.0.
+2020-11-06 12:19:04,294 INFO  [main] Correct line in .txt file for creating object Point : 7.0.
+2020-11-06 12:19:04,295 INFO  [main] Correct line in .txt file for creating object Point : 7.0.
+2020-11-06 12:19:04,295 INFO  [main] Correct line in .txt file for creating object Point : 8.0.
+2020-11-06 12:19:04,296 INFO  [main] Correct line in .txt file for creating object Point : 10.0.
+2020-11-06 12:19:04,296 INFO  [main] Correct line in .txt file for creating object Point : 11.0.
+2020-11-06 12:19:04,296 INFO  [main] Correct line in .txt file for creating object Point : 13.0.
+2020-11-06 12:19:04,297 INFO  [main] Correct line in .txt file for creating object Point : 14.0.
+2020-11-06 12:19:04,298 WARN  [main] Incorrect line in .txt file for creating object Point : 5xx. Coordinates should not contain letters.
+2020-11-06 12:19:04,298 INFO  [main] Correct line in .txt file for creating object Point : 6.0.
+2020-11-06 12:19:04,298 INFO  [main] Correct line in .txt file for creating object Point : 7.0.
+2020-11-06 12:19:04,298 INFO  [main] Correct line in .txt file for creating object Point : 7.0.
+2020-11-06 12:19:04,299 INFO  [main] Correct line in .txt file for creating object Point : 8.0.
+2020-11-06 12:19:04,299 INFO  [main] Correct line in .txt file for creating object Point : 10.0.
+2020-11-06 12:19:04,299 INFO  [main] Correct line in .txt file for creating object Point : 11.0.
+2020-11-06 12:19:04,299 INFO  [main] Correct line in .txt file for creating object Point : 13.0.
+2020-11-06 12:19:04,300 INFO  [main] Correct line in .txt file for creating object Point : 14.0.
+2020-11-06 12:19:04,347 WARN  [main] Incorrect line in .txt file for creating object Point : 5xx. Coordinates should not contain letters.
+2020-11-06 12:19:04,347 INFO  [main] Correct line in .txt file for creating object Point : 6.0.
+2020-11-06 12:19:04,347 INFO  [main] Correct line in .txt file for creating object Point : 7.0.
+2020-11-06 12:25:45,032 WARN  [main] Incorrect line in .txt file for creating object Point : 5xx. Coordinates should not contain letters.
+2020-11-06 12:25:54,042 WARN  [main] Incorrect line in .txt file for creating object Point : 5xx. Coordinates should not contain letters.
+2020-11-06 12:26:03,268 WARN  [main] Incorrect line in .txt file for creating object Point : 5xx. Coordinates should not contain letters.
+2020-11-06 12:27:49,173 WARN  [main] Incorrect line in .txt file for creating object Point : 5xx. Coordinates should not contain letters.
+2020-11-06 12:27:49,176 INFO  [main] Correct line in .txt file for creating object Point : 6.
+2020-11-06 12:28:24,364 WARN  [main] Incorrect line in .txt file for creating object Point : 5xx. Coordinates should not contain letters.
+2020-11-06 12:28:24,367 INFO  [main] Correct line in .txt file for creating object Point : 7.0.
+2020-11-06 12:28:24,369 INFO  [main] Correct line in .txt file for creating object Point : 8.0.
+2020-11-06 12:28:24,369 INFO  [main] Correct line in .txt file for creating object Point : 11.0.
+2020-11-06 12:28:24,370 INFO  [main] Correct line in .txt file for creating object Point : 14.0.
+2020-11-06 12:28:24,371 WARN  [main] Incorrect line in .txt file for creating object Point : 5xx. Coordinates should not contain letters.
+2020-11-06 12:28:24,371 INFO  [main] Correct line in .txt file for creating object Point : 7.0.
+2020-11-06 12:28:24,371 INFO  [main] Correct line in .txt file for creating object Point : 8.0.
+2020-11-06 12:28:24,372 INFO  [main] Correct line in .txt file for creating object Point : 11.0.
+2020-11-06 12:28:24,372 INFO  [main] Correct line in .txt file for creating object Point : 14.0.
+2020-11-06 12:28:24,421 WARN  [main] Incorrect line in .txt file for creating object Point : 5xx. Coordinates should not contain letters.
+2020-11-06 12:28:24,421 INFO  [main] Correct line in .txt file for creating object Point : 7.0.
+2020-11-06 12:28:45,936 WARN  [main] Incorrect line in .txt file for creating object Point : 5xx. Coordinates should not contain letters.
+2020-11-06 12:28:45,940 INFO  [main] Correct line in .txt file for creating object Point : 6.0.
+2020-11-06 12:28:45,940 INFO  [main] Correct line in .txt file for creating object Point : 7.0.
+2020-11-06 12:28:45,941 INFO  [main] Correct line in .txt file for creating object Point : 7.0.
+2020-11-06 12:28:45,941 INFO  [main] Correct line in .txt file for creating object Point : 8.0.
+2020-11-06 12:28:45,943 INFO  [main] Correct line in .txt file for creating object Point : 10.0.
+2020-11-06 12:28:45,943 INFO  [main] Correct line in .txt file for creating object Point : 11.0.
+2020-11-06 12:28:45,944 INFO  [main] Correct line in .txt file for creating object Point : 13.0.
+2020-11-06 12:28:45,944 INFO  [main] Correct line in .txt file for creating object Point : 14.0.
+2020-11-06 12:28:45,946 WARN  [main] Incorrect line in .txt file for creating object Point : 5xx. Coordinates should not contain letters.
+2020-11-06 12:28:45,946 INFO  [main] Correct line in .txt file for creating object Point : 6.0.
+2020-11-06 12:28:45,946 INFO  [main] Correct line in .txt file for creating object Point : 7.0.
+2020-11-06 12:28:45,947 INFO  [main] Correct line in .txt file for creating object Point : 7.0.
+2020-11-06 12:28:45,947 INFO  [main] Correct line in .txt file for creating object Point : 8.0.
+2020-11-06 12:28:45,947 INFO  [main] Correct line in .txt file for creating object Point : 10.0.
+2020-11-06 12:28:45,948 INFO  [main] Correct line in .txt file for creating object Point : 11.0.
+2020-11-06 12:28:45,948 INFO  [main] Correct line in .txt file for creating object Point : 13.0.
+2020-11-06 12:28:45,948 INFO  [main] Correct line in .txt file for creating object Point : 14.0.
+2020-11-06 12:28:45,999 WARN  [main] Incorrect line in .txt file for creating object Point : 5xx. Coordinates should not contain letters.
+2020-11-06 12:28:45,999 INFO  [main] Correct line in .txt file for creating object Point : 6.0.
+2020-11-06 12:28:46,000 INFO  [main] Correct line in .txt file for creating object Point : 7.0.
+2020-11-06 13:03:44,498 WARN  [main] Incorrect line in .txt file for creating object Point : 5xx. Coordinates should not contain letters.
+2020-11-06 13:03:44,518 INFO  [main] Correct line in .txt file for creating object Point : 6.0.
+2020-11-06 13:03:44,518 INFO  [main] Correct line in .txt file for creating object Point : 7.0.
+2020-11-06 13:03:44,520 WARN  [main] Incorrect line in .txt file for creating object Point : 5xx. Coordinates should not contain letters.
+2020-11-06 13:03:44,520 INFO  [main] Correct line in .txt file for creating object Point : 6.0.
+2020-11-06 13:03:44,520 INFO  [main] Correct line in .txt file for creating object Point : 7.0.
+2020-11-06 13:03:44,521 INFO  [main] Correct line in .txt file for creating object Point : 7.0.
+2020-11-06 13:03:44,521 INFO  [main] Correct line in .txt file for creating object Point : 8.0.
+2020-11-06 13:03:44,521 INFO  [main] Correct line in .txt file for creating object Point : 10.0.
+2020-11-06 13:03:44,521 INFO  [main] Correct line in .txt file for creating object Point : 11.0.
+2020-11-06 13:03:44,522 INFO  [main] Correct line in .txt file for creating object Point : 13.0.
+2020-11-06 13:03:44,522 INFO  [main] Correct line in .txt file for creating object Point : 14.0.
+2020-11-06 13:05:40,391 WARN  [main] Incorrect line in .txt file for creating object Point : 5xx. Coordinates should not contain letters.
+2020-11-06 13:05:40,403 INFO  [main] Correct line in .txt file for creating object Point : 6.0.
+2020-11-06 13:05:40,404 INFO  [main] Correct line in .txt file for creating object Point : 7.0.
+2020-11-06 13:05:40,406 WARN  [main] Incorrect line in .txt file for creating object Point : 5xx. Coordinates should not contain letters.
+2020-11-06 13:05:40,406 INFO  [main] Correct line in .txt file for creating object Point : 6.0.
+2020-11-06 13:05:40,406 INFO  [main] Correct line in .txt file for creating object Point : 7.0.
+2020-11-06 13:05:40,408 INFO  [main] Correct line in .txt file for creating object Point : 7.0.
+2020-11-06 13:05:40,408 INFO  [main] Correct line in .txt file for creating object Point : 8.0.
+2020-11-06 13:05:40,409 INFO  [main] Correct line in .txt file for creating object Point : 10.0.
+2020-11-06 13:05:40,409 INFO  [main] Correct line in .txt file for creating object Point : 11.0.
+2020-11-06 13:05:40,409 INFO  [main] Correct line in .txt file for creating object Point : 13.0.
+2020-11-06 13:05:40,409 INFO  [main] Correct line in .txt file for creating object Point : 14.0.
+2020-11-06 13:05:40,411 INFO  [main] Successfully created new Quadrangle with vertices from .txt file
+2020-11-06 13:06:44,798 WARN  [main] Incorrect line in .txt file for creating object Point : 5xx. Coordinates should not contain letters.
+2020-11-06 13:06:44,802 INFO  [main] Correct line in .txt file for creating object Point : 6.0.
+2020-11-06 13:06:44,802 INFO  [main] Correct line in .txt file for creating object Point : 7.0.
+2020-11-06 13:06:44,803 WARN  [main] Incorrect line in .txt file for creating object Point : 5xx. Coordinates should not contain letters.
+2020-11-06 13:06:44,804 INFO  [main] Correct line in .txt file for creating object Point : 6.0.
+2020-11-06 13:06:44,804 INFO  [main] Correct line in .txt file for creating object Point : 7.0.
+2020-11-06 13:06:44,804 INFO  [main] Correct line in .txt file for creating object Point : 7.0.
+2020-11-06 13:06:44,804 INFO  [main] Correct line in .txt file for creating object Point : 8.0.
+2020-11-06 13:06:44,805 INFO  [main] Correct line in .txt file for creating object Point : 10.0.
+2020-11-06 13:06:44,805 INFO  [main] Correct line in .txt file for creating object Point : 11.0.
+2020-11-06 13:06:44,805 INFO  [main] Correct line in .txt file for creating object Point : 13.0.
+2020-11-06 13:06:44,805 INFO  [main] Correct line in .txt file for creating object Point : 14.0.
+2020-11-06 13:06:44,807 INFO  [main] Successfully created new Quadrangle with vertices from .txt file
+2020-11-06 13:11:26,892 WARN  [main] Incorrect line in .txt file for creating object Point : 5xx. Coordinates should not contain letters.
+2020-11-06 13:11:26,895 INFO  [main] Correct line in .txt file for creating object Point : 6.0.
+2020-11-06 13:11:26,896 INFO  [main] Correct line in .txt file for creating object Point : 7.0.
+2020-11-06 13:11:26,897 WARN  [main] Incorrect line in .txt file for creating object Point : 5xx. Coordinates should not contain letters.
+2020-11-06 13:11:26,899 INFO  [main] Correct line in .txt file for creating object Point : 6.0.
+2020-11-06 13:11:26,900 INFO  [main] Correct line in .txt file for creating object Point : 7.0.
+2020-11-06 13:11:26,900 INFO  [main] Correct line in .txt file for creating object Point : 7.0.
+2020-11-06 13:11:26,900 INFO  [main] Correct line in .txt file for creating object Point : 8.0.
+2020-11-06 13:11:26,901 INFO  [main] Correct line in .txt file for creating object Point : 10.0.
+2020-11-06 13:11:26,901 INFO  [main] Correct line in .txt file for creating object Point : 11.0.
+2020-11-06 13:11:26,901 INFO  [main] Correct line in .txt file for creating object Point : 13.0.
+2020-11-06 13:11:26,901 INFO  [main] Correct line in .txt file for creating object Point : 14.0.
+2020-11-06 13:11:26,903 INFO  [main] Successfully created new Quadrangle with vertices from .txt file
+2020-11-06 13:46:42,584 WARN  [main] Incorrect line in .txt file for creating object Point : 5xx. Coordinates should not contain letters.
+2020-11-06 13:46:42,588 INFO  [main] Correct line in .txt file for creating object Point : 6.0.
+2020-11-06 13:46:42,588 INFO  [main] Correct line in .txt file for creating object Point : 7.3.
+2020-11-06 13:46:42,589 WARN  [main] Incorrect line in .txt file for creating object Point : 5xx. Coordinates should not contain letters.
+2020-11-06 13:46:42,590 INFO  [main] Correct line in .txt file for creating object Point : 6.0.
+2020-11-06 13:46:42,590 INFO  [main] Correct line in .txt file for creating object Point : 7.3.
+2020-11-06 13:46:42,590 INFO  [main] Correct line in .txt file for creating object Point : 7.3.
+2020-11-06 13:46:42,591 INFO  [main] Correct line in .txt file for creating object Point : 8.5.
+2020-11-06 13:46:42,591 INFO  [main] Correct line in .txt file for creating object Point : 10.0.
+2020-11-06 13:46:42,591 INFO  [main] Correct line in .txt file for creating object Point : 11.0.
+2020-11-06 13:46:42,591 INFO  [main] Correct line in .txt file for creating object Point : 13.0.
+2020-11-06 13:46:42,592 INFO  [main] Correct line in .txt file for creating object Point : 14.0.
+2020-11-06 13:46:42,593 INFO  [main] Successfully created new Quadrangle with vertices from .txt file
+2020-11-06 13:46:42,700 INFO  [main] Perimeter of given Quadrangle is calculated!
+2020-11-06 13:46:42,701 INFO  [main] Area of given Quadrangle is calculated!
+2020-11-06 13:50:18,832 WARN  [main] Incorrect line in .txt file for creating object Point : 6.0. Coordinates should not contain letters.
+2020-11-06 13:50:18,836 INFO  [main] Correct line in .txt file for creating object Point : 8.5.
+2020-11-06 13:50:18,836 INFO  [main] Correct line in .txt file for creating object Point : 10.0.
+2020-11-06 13:50:18,837 WARN  [main] Incorrect line in .txt file for creating object Point : 6.0. Coordinates should not contain letters.
+2020-11-06 13:50:18,837 INFO  [main] Correct line in .txt file for creating object Point : 8.5.
+2020-11-06 13:50:18,838 INFO  [main] Correct line in .txt file for creating object Point : 10.0.
+2020-11-06 13:50:18,838 INFO  [main] Correct line in .txt file for creating object Point : 8.5.
+2020-11-06 13:50:18,838 INFO  [main] Correct line in .txt file for creating object Point : 10.0.
+2020-11-06 13:50:18,838 INFO  [main] Correct line in .txt file for creating object Point : 11.0.
+2020-11-06 13:50:18,839 INFO  [main] Correct line in .txt file for creating object Point : 13.0.
+2020-11-06 13:50:18,839 INFO  [main] Correct line in .txt file for creating object Point : 14.0.
+2020-11-06 13:50:18,839 INFO  [main] Correct line in .txt file for creating object Point : 16.0.
+2020-11-06 13:50:18,840 INFO  [main] Successfully created new Quadrangle with vertices from .txt file
+2020-11-06 13:50:18,924 INFO  [main] Perimeter of given Quadrangle is calculated!
+2020-11-06 13:50:18,925 INFO  [main] Area of given Quadrangle is calculated!
+2020-11-06 14:08:10,100 WARN  [main] Incorrect line in .txt file for creating object Point : 5xx. Coordinates should not contain letters.
+2020-11-06 14:08:10,103 INFO  [main] Correct line in .txt file for creating object Point : 7.3.
+2020-11-06 14:08:10,103 INFO  [main] Correct line in .txt file for creating object Point : 9.0.
+2020-11-06 14:08:10,104 WARN  [main] Incorrect line in .txt file for creating object Point : 5xx. Coordinates should not contain letters.
+2020-11-06 14:08:10,104 INFO  [main] Correct line in .txt file for creating object Point : 7.3.
+2020-11-06 14:08:10,105 INFO  [main] Correct line in .txt file for creating object Point : 9.0.
+2020-11-06 14:08:10,105 INFO  [main] Correct line in .txt file for creating object Point : 8.5.
+2020-11-06 14:08:10,105 INFO  [main] Correct line in .txt file for creating object Point : 10.0.
+2020-11-06 14:08:10,106 INFO  [main] Correct line in .txt file for creating object Point : 11.0.
+2020-11-06 14:08:10,106 INFO  [main] Correct line in .txt file for creating object Point : 13.0.
+2020-11-06 14:08:10,106 INFO  [main] Correct line in .txt file for creating object Point : 14.0.
+2020-11-06 14:08:10,106 INFO  [main] Correct line in .txt file for creating object Point : 16.0.
+2020-11-06 14:08:10,107 INFO  [main] Successfully created new Quadrangle with vertices from .txt file
+2020-11-06 14:08:10,181 INFO  [main] Perimeter of given Quadrangle is calculated!
+2020-11-06 14:08:10,181 INFO  [main] Area of given Quadrangle is calculated!
+2020-11-06 14:10:04,504 WARN  [main] Incorrect line in .txt file for creating object Point : 4xx. Coordinates should not contain letters.
+2020-11-06 14:10:04,508 WARN  [main] Incorrect line in .txt file for creating object Point : 5xx. Coordinates should not contain letters.
+2020-11-06 14:10:04,508 INFO  [main] Correct line in .txt file for creating object Point : 6.0.
+2020-11-06 14:10:04,508 INFO  [main] Correct line in .txt file for creating object Point : 7.3.
+2020-11-06 14:10:04,509 WARN  [main] Incorrect line in .txt file for creating object Point : 4xx. Coordinates should not contain letters.
+2020-11-06 14:10:04,509 WARN  [main] Incorrect line in .txt file for creating object Point : 5xx. Coordinates should not contain letters.
+2020-11-06 14:10:04,509 INFO  [main] Correct line in .txt file for creating object Point : 6.0.
+2020-11-06 14:10:04,510 INFO  [main] Correct line in .txt file for creating object Point : 7.3.
+2020-11-06 14:10:04,510 INFO  [main] Correct line in .txt file for creating object Point : 7.3.
+2020-11-06 14:10:04,510 INFO  [main] Correct line in .txt file for creating object Point : 8.5.
+2020-11-06 14:10:04,510 INFO  [main] Correct line in .txt file for creating object Point : 10.0.
+2020-11-06 14:10:04,511 INFO  [main] Correct line in .txt file for creating object Point : 11.0.
+2020-11-06 14:10:04,511 INFO  [main] Correct line in .txt file for creating object Point : 13.0.
+2020-11-06 14:10:04,511 INFO  [main] Correct line in .txt file for creating object Point : 14.0.
+2020-11-06 14:10:04,512 INFO  [main] Successfully created new Quadrangle with vertices from .txt file
+2020-11-06 14:10:04,566 INFO  [main] Perimeter of given Quadrangle is calculated!
+2020-11-06 14:10:04,566 INFO  [main] Area of given Quadrangle is calculated!
+2020-11-06 14:12:49,439 INFO  [main] Correct line in .txt file for creating object Point : 1.0.
+2020-11-06 14:12:49,442 INFO  [main] Correct line in .txt file for creating object Point : 2.0.
+2020-11-06 14:12:49,443 INFO  [main] Correct line in .txt file for creating object Point : 1.0.
+2020-11-06 14:12:49,444 INFO  [main] Correct line in .txt file for creating object Point : 2.0.
+2020-11-06 14:12:49,444 INFO  [main] Correct line in .txt file for creating object Point : 1.0.
+2020-11-06 14:12:49,445 INFO  [main] Correct line in .txt file for creating object Point : 2.0.
+2020-11-06 14:12:49,445 INFO  [main] Correct line in .txt file for creating object Point : 1.0.
+2020-11-06 14:12:49,445 INFO  [main] Correct line in .txt file for creating object Point : 2.0.
+2020-11-06 14:12:49,446 INFO  [main] Correct line in .txt file for creating object Point : 1.0.
+2020-11-06 14:12:49,446 INFO  [main] Correct line in .txt file for creating object Point : 2.0.
+2020-11-06 14:12:49,447 INFO  [main] Successfully created new Quadrangle with vertices from .txt file
+2020-11-06 14:12:49,503 INFO  [main] Perimeter of given Quadrangle is calculated!
+2020-11-06 14:12:49,503 INFO  [main] Area of given Quadrangle is calculated!
+2020-11-06 14:13:43,498 WARN  [main] Incorrect line in .txt file for creating object Point : 5xx. Coordinates should not contain letters.
+2020-11-06 14:13:43,504 INFO  [main] Correct line in .txt file for creating object Point : 2.0.
+2020-11-06 14:13:43,504 INFO  [main] Correct line in .txt file for creating object Point : 7.3.
+2020-11-06 14:13:43,505 WARN  [main] Incorrect line in .txt file for creating object Point : 5xx. Coordinates should not contain letters.
+2020-11-06 14:13:43,506 INFO  [main] Correct line in .txt file for creating object Point : 2.0.
+2020-11-06 14:13:43,506 INFO  [main] Correct line in .txt file for creating object Point : 7.3.
+2020-11-06 14:13:43,506 WARN  [main] Incorrect line in .txt file for creating object Point : 5xx. Coordinates should not contain letters.
+2020-11-06 14:13:43,513 INFO  [main] Correct line in .txt file for creating object Point : 2.0.
+2020-11-06 14:13:43,513 INFO  [main] Correct line in .txt file for creating object Point : 7.3.
+2020-11-06 14:13:43,513 WARN  [main] Incorrect line in .txt file for creating object Point : 5xx. Coordinates should not contain letters.
+2020-11-06 14:13:43,514 INFO  [main] Correct line in .txt file for creating object Point : 2.0.
+2020-11-06 14:13:43,515 INFO  [main] Correct line in .txt file for creating object Point : 7.3.
+2020-11-06 14:13:43,516 WARN  [main] Incorrect line in .txt file for creating object Point : 5xx. Coordinates should not contain letters.
+2020-11-06 14:13:43,517 INFO  [main] Correct line in .txt file for creating object Point : 2.0.
+2020-11-06 14:13:43,517 INFO  [main] Correct line in .txt file for creating object Point : 7.3.
+2020-11-06 14:13:43,531 INFO  [main] Successfully created new Quadrangle with vertices from .txt file
+2020-11-06 14:13:43,615 INFO  [main] Perimeter of given Quadrangle is calculated!
+2020-11-06 14:13:43,615 INFO  [main] Area of given Quadrangle is calculated!
+2020-11-06 14:16:52,746 WARN  [main] Incorrect line in .txt file for creating object Point : 4xx. Coordinates should not contain letters.
+2020-11-06 14:16:52,756 WARN  [main] Incorrect line in .txt file for creating object Point : 5xx. Coordinates should not contain letters.
+2020-11-06 14:19:20,414 WARN  [main] Incorrect line in .txt file for creating object Point : 5xx. Coordinates should not contain letters.
+2020-11-06 14:19:20,418 INFO  [main] Correct line in .txt file for creating object Point : 6.0.
+2020-11-06 14:19:42,381 INFO  [main] Correct line in .txt file for creating object Point : 4.
+2020-11-06 14:19:42,384 INFO  [main] Correct line in .txt file for creating object Point : 5.
+2020-11-06 14:19:42,385 INFO  [main] Correct line in .txt file for creating object Point : 4.
+2020-11-06 14:19:42,385 INFO  [main] Correct line in .txt file for creating object Point : 5.
+2020-11-06 14:19:42,385 INFO  [main] Correct line in .txt file for creating object Point : 7.3.
+2020-11-06 14:19:42,385 INFO  [main] Correct line in .txt file for creating object Point : 8.5.
+2020-11-06 14:19:42,385 INFO  [main] Correct line in .txt file for creating object Point : 10.
+2020-11-06 14:19:42,386 INFO  [main] Correct line in .txt file for creating object Point : 11.
+2020-11-06 14:19:42,386 INFO  [main] Correct line in .txt file for creating object Point : 13.
+2020-11-06 14:19:42,386 INFO  [main] Correct line in .txt file for creating object Point : 14.
+2020-11-06 14:19:42,387 INFO  [main] Successfully created new Quadrangle with vertices from .txt file
+2020-11-06 14:19:42,439 INFO  [main] Perimeter of given Quadrangle is calculated!
+2020-11-06 14:19:42,439 INFO  [main] Area of given Quadrangle is calculated!
+2020-11-06 14:20:03,301 INFO  [main] Correct line in .txt file for creating object Point : 1.
+2020-11-06 14:20:03,304 INFO  [main] Correct line in .txt file for creating object Point : 2.
+2020-11-06 14:20:03,305 INFO  [main] Correct line in .txt file for creating object Point : 1.
+2020-11-06 14:20:03,305 INFO  [main] Correct line in .txt file for creating object Point : 2.
+2020-11-06 14:20:03,306 INFO  [main] Correct line in .txt file for creating object Point : 1.
+2020-11-06 14:20:03,306 INFO  [main] Correct line in .txt file for creating object Point : 2.
+2020-11-06 14:20:03,306 INFO  [main] Correct line in .txt file for creating object Point : 1.
+2020-11-06 14:20:03,306 INFO  [main] Correct line in .txt file for creating object Point : 2.
+2020-11-06 14:20:03,307 INFO  [main] Correct line in .txt file for creating object Point : 1.
+2020-11-06 14:20:03,307 INFO  [main] Correct line in .txt file for creating object Point : 2.
+2020-11-06 14:20:03,309 INFO  [main] Successfully created new Quadrangle with vertices from .txt file
+2020-11-06 14:20:03,386 INFO  [main] Perimeter of given Quadrangle is calculated!
+2020-11-06 14:20:03,387 INFO  [main] Area of given Quadrangle is calculated!
+2020-11-06 14:22:22,110 INFO  [main] Correct line in .txt file for creating object Point : 5.0.
+2020-11-06 14:22:22,113 INFO  [main] Correct line in .txt file for creating object Point : 7.3.
+2020-11-06 14:22:22,114 INFO  [main] Correct line in .txt file for creating object Point : 5.0.
+2020-11-06 14:22:22,115 INFO  [main] Correct line in .txt file for creating object Point : 7.3.
+2020-11-06 14:22:22,115 INFO  [main] Correct line in .txt file for creating object Point : 8.5.
+2020-11-06 14:22:22,116 INFO  [main] Correct line in .txt file for creating object Point : 10.0.
+2020-11-06 14:22:22,116 INFO  [main] Correct line in .txt file for creating object Point : 11.0.
+2020-11-06 14:22:22,116 INFO  [main] Correct line in .txt file for creating object Point : 13.0.
+2020-11-06 14:22:22,116 INFO  [main] Correct line in .txt file for creating object Point : 14.0.
+2020-11-06 14:22:22,117 INFO  [main] Correct line in .txt file for creating object Point : 16.0.
+2020-11-06 14:22:22,118 INFO  [main] Successfully created new Quadrangle with vertices from .txt file
+2020-11-06 14:22:22,176 INFO  [main] Perimeter of given Quadrangle is calculated!
+2020-11-06 14:22:22,176 INFO  [main] Area of given Quadrangle is calculated!
+2020-11-06 14:24:19,073 INFO  [main] Correct line in .txt file for creating object Point : 2.0.
+2020-11-06 14:24:19,076 INFO  [main] Correct line in .txt file for creating object Point : 4.0.
+2020-11-06 14:24:19,077 INFO  [main] Correct line in .txt file for creating object Point : 2.0.
+2020-11-06 14:24:19,077 INFO  [main] Correct line in .txt file for creating object Point : 4.0.
+2020-11-06 14:24:19,078 INFO  [main] Correct line in .txt file for creating object Point : 2.0.
+2020-11-06 14:24:19,078 INFO  [main] Correct line in .txt file for creating object Point : 4.0.
+2020-11-06 14:24:19,078 INFO  [main] Correct line in .txt file for creating object Point : 2.0.
+2020-11-06 14:24:19,079 INFO  [main] Correct line in .txt file for creating object Point : 4.0.
+2020-11-06 14:24:19,079 INFO  [main] Correct line in .txt file for creating object Point : 2.0.
+2020-11-06 14:24:19,079 INFO  [main] Correct line in .txt file for creating object Point : 4.0.
+2020-11-06 14:24:19,080 INFO  [main] Successfully created new Quadrangle with vertices from .txt file
+2020-11-06 14:24:19,135 INFO  [main] Perimeter of given Quadrangle is calculated!
+2020-11-06 14:24:19,136 INFO  [main] Area of given Quadrangle is calculated!
+2020-11-06 14:24:43,393 INFO  [main] Correct line in .txt file for creating object Point : 5.0.
+2020-11-06 14:24:43,397 INFO  [main] Correct line in .txt file for creating object Point : 7.3.
+2020-11-06 14:24:43,400 INFO  [main] Correct line in .txt file for creating object Point : 5.0.
+2020-11-06 14:24:43,401 INFO  [main] Correct line in .txt file for creating object Point : 7.3.
+2020-11-06 14:24:43,401 INFO  [main] Correct line in .txt file for creating object Point : 8.5.
+2020-11-06 14:24:43,402 INFO  [main] Correct line in .txt file for creating object Point : 10.0.
+2020-11-06 14:24:43,403 INFO  [main] Correct line in .txt file for creating object Point : 11.0.
+2020-11-06 14:24:43,403 INFO  [main] Correct line in .txt file for creating object Point : 13.0.
+2020-11-06 14:24:43,404 INFO  [main] Correct line in .txt file for creating object Point : 14.0.
+2020-11-06 14:24:43,404 INFO  [main] Correct line in .txt file for creating object Point : 16.0.
+2020-11-06 14:24:43,405 INFO  [main] Successfully created new Quadrangle with vertices from .txt file
+2020-11-06 14:24:43,473 INFO  [main] Perimeter of given Quadrangle is calculated!
+2020-11-06 14:24:43,473 INFO  [main] Area of given Quadrangle is calculated!
+2020-11-06 14:28:55,588 INFO  [main] Correct line in .txt file for creating object Point : 5.0.
+2020-11-06 14:28:55,592 INFO  [main] Correct line in .txt file for creating object Point : 7.3.
+2020-11-06 14:28:55,593 INFO  [main] Correct line in .txt file for creating object Point : 5.0.
+2020-11-06 14:28:55,593 INFO  [main] Correct line in .txt file for creating object Point : 7.3.
+2020-11-06 14:28:55,594 INFO  [main] Correct line in .txt file for creating object Point : 8.5.
+2020-11-06 14:28:55,594 INFO  [main] Correct line in .txt file for creating object Point : 10.0.
+2020-11-06 14:28:55,594 INFO  [main] Correct line in .txt file for creating object Point : 11.0.
+2020-11-06 14:28:55,595 INFO  [main] Correct line in .txt file for creating object Point : 13.0.
+2020-11-06 14:28:55,597 INFO  [main] Correct line in .txt file for creating object Point : 14.0.
+2020-11-06 14:28:55,597 INFO  [main] Correct line in .txt file for creating object Point : 16.0.
+2020-11-06 14:28:55,598 INFO  [main] Successfully created new Quadrangle with vertices from .txt file
+2020-11-06 14:28:55,682 INFO  [main] Perimeter of given Quadrangle is calculated!
+2020-11-06 14:28:55,683 INFO  [main] Area of given Quadrangle is calculated!
+2020-11-06 14:29:12,685 INFO  [main] Correct line in .txt file for creating object Point : 5.0.
+2020-11-06 14:29:12,688 INFO  [main] Correct line in .txt file for creating object Point : 7.3.
+2020-11-06 14:29:12,689 INFO  [main] Correct line in .txt file for creating object Point : 5.0.
+2020-11-06 14:29:12,690 INFO  [main] Correct line in .txt file for creating object Point : 7.3.
+2020-11-06 14:29:12,690 INFO  [main] Correct line in .txt file for creating object Point : 8.5.
+2020-11-06 14:29:12,690 INFO  [main] Correct line in .txt file for creating object Point : 10.0.
+2020-11-06 14:29:12,690 INFO  [main] Correct line in .txt file for creating object Point : 11.0.
+2020-11-06 14:29:12,690 INFO  [main] Correct line in .txt file for creating object Point : 13.0.
+2020-11-06 14:29:12,691 INFO  [main] Correct line in .txt file for creating object Point : 14.0.
+2020-11-06 14:29:12,691 INFO  [main] Correct line in .txt file for creating object Point : 16.0.
+2020-11-06 14:29:12,692 INFO  [main] Successfully created new Quadrangle with vertices from .txt file
+2020-11-06 14:29:12,750 INFO  [main] Perimeter of given Quadrangle is calculated!
+2020-11-06 14:29:12,751 INFO  [main] Area of given Quadrangle is calculated!
+2020-11-06 14:32:11,749 INFO  [main] Correct line in .txt file for creating object Point : 5.0.
+2020-11-06 14:32:11,753 INFO  [main] Correct line in .txt file for creating object Point : 7.3.
+2020-11-06 14:32:11,754 INFO  [main] Correct line in .txt file for creating object Point : 5.0.
+2020-11-06 14:32:11,755 INFO  [main] Correct line in .txt file for creating object Point : 7.3.
+2020-11-06 14:32:11,755 INFO  [main] Correct line in .txt file for creating object Point : 8.5.
+2020-11-06 14:32:11,756 INFO  [main] Correct line in .txt file for creating object Point : 10.0.
+2020-11-06 14:32:11,756 INFO  [main] Correct line in .txt file for creating object Point : 11.0.
+2020-11-06 14:32:11,756 INFO  [main] Correct line in .txt file for creating object Point : 13.0.
+2020-11-06 14:32:11,756 INFO  [main] Correct line in .txt file for creating object Point : 14.0.
+2020-11-06 14:32:11,757 INFO  [main] Correct line in .txt file for creating object Point : 16.0.
+2020-11-06 14:32:11,758 INFO  [main] Successfully created new Quadrangle with vertices from .txt file
+2020-11-06 14:32:55,223 INFO  [main] Correct line in .txt file for creating object Point : 5.0.
+2020-11-06 14:32:55,226 INFO  [main] Correct line in .txt file for creating object Point : 7.3.
+2020-11-06 14:32:55,227 INFO  [main] Correct line in .txt file for creating object Point : 5.0.
+2020-11-06 14:32:55,228 INFO  [main] Correct line in .txt file for creating object Point : 7.3.
+2020-11-06 14:32:55,228 INFO  [main] Correct line in .txt file for creating object Point : 8.5.
+2020-11-06 14:32:55,228 INFO  [main] Correct line in .txt file for creating object Point : 10.0.
+2020-11-06 14:32:55,229 INFO  [main] Correct line in .txt file for creating object Point : 11.0.
+2020-11-06 14:32:55,229 INFO  [main] Correct line in .txt file for creating object Point : 13.0.
+2020-11-06 14:32:55,229 INFO  [main] Correct line in .txt file for creating object Point : 14.0.
+2020-11-06 14:32:55,229 INFO  [main] Correct line in .txt file for creating object Point : 16.0.
+2020-11-06 14:32:55,230 INFO  [main] Successfully created new Quadrangle with vertices from .txt file
+2020-11-06 14:32:55,298 INFO  [main] Perimeter of given Quadrangle is calculated!
+2020-11-06 14:32:55,299 INFO  [main] Area of given Quadrangle is calculated!
+2020-11-09 00:30:34,749 WARN  [main] Incorrect line in .txt file to generate a Point: 4kperkgeor. Let's try the next line.
+2020-11-09 00:30:34,763 INFO  [main] Correct line in .txt file to generate a Point: 5
+2020-11-09 00:30:34,764 INFO  [main] Correct line in .txt file to generate a Point: 7.3
+2020-11-09 00:30:34,764 WARN  [main] Incorrect line in .txt file to generate a Point: 4kperkgeor. Let's try the next line.
+2020-11-09 00:30:34,765 INFO  [main] Correct line in .txt file to generate a Point: 5
+2020-11-09 00:30:34,765 INFO  [main] Correct line in .txt file to generate a Point: 7.3
+2020-11-09 00:30:34,766 WARN  [main] Incorrect line in .txt file to generate a Point: 4kperkgeor. Let's try the next line.
+2020-11-09 00:30:34,766 INFO  [main] Correct line in .txt file to generate a Point: 5
+2020-11-09 00:30:34,766 INFO  [main] Correct line in .txt file to generate a Point: 7.3
+2020-11-09 00:30:34,767 WARN  [main] Incorrect line in .txt file to generate a Point: 4kperkgeor. Let's try the next line.
+2020-11-09 00:30:34,767 INFO  [main] Correct line in .txt file to generate a Point: 5
+2020-11-09 00:30:34,767 INFO  [main] Correct line in .txt file to generate a Point: 7.3
+2020-11-09 00:30:34,768 WARN  [main] Incorrect line in .txt file to generate a Point: 4kperkgeor. Let's try the next line.
+2020-11-09 00:30:34,768 INFO  [main] Correct line in .txt file to generate a Point: 5
+2020-11-09 00:30:34,768 INFO  [main] Correct line in .txt file to generate a Point: 7.3
+2020-11-09 00:30:34,769 INFO  [main] Successfully created new Quadrangle with vertices from .txt file
+2020-11-09 00:30:34,913 INFO  [main] Perimeter of given Quadrangle is calculated!
+2020-11-09 00:30:34,913 INFO  [main] Area of given Quadrangle is calculated!
+2020-11-09 00:31:55,142 WARN  [main] Incorrect line in .txt file to generate a Point: 4kperkgeor. Let's try the next line.
+2020-11-09 00:31:55,146 INFO  [main] Correct line in .txt file to generate a Point: 5
+2020-11-09 00:31:55,147 INFO  [main] Correct line in .txt file to generate a Point: 7.3
+2020-11-09 00:31:55,147 WARN  [main] Incorrect line in .txt file to generate a Point: 4kperkgeor. Let's try the next line.
+2020-11-09 00:31:55,148 INFO  [main] Correct line in .txt file to generate a Point: 5
+2020-11-09 00:31:55,148 INFO  [main] Correct line in .txt file to generate a Point: 7.3
+2020-11-09 00:31:55,149 WARN  [main] Incorrect line in .txt file to generate a Point: 4kperkgeor. Let's try the next line.
+2020-11-09 00:31:55,149 INFO  [main] Correct line in .txt file to generate a Point: 5
+2020-11-09 00:31:55,150 INFO  [main] Correct line in .txt file to generate a Point: 7.3
+2020-11-09 00:31:55,150 WARN  [main] Incorrect line in .txt file to generate a Point: 4kperkgeor. Let's try the next line.
+2020-11-09 00:31:55,150 INFO  [main] Correct line in .txt file to generate a Point: 5
+2020-11-09 00:31:55,151 INFO  [main] Correct line in .txt file to generate a Point: 7.3
+2020-11-09 00:31:55,151 WARN  [main] Incorrect line in .txt file to generate a Point: 4kperkgeor. Let's try the next line.
+2020-11-09 00:31:55,151 INFO  [main] Correct line in .txt file to generate a Point: 5
+2020-11-09 00:31:55,152 INFO  [main] Correct line in .txt file to generate a Point: 7.3
+2020-11-09 00:31:55,153 INFO  [main] Successfully created new Quadrangle with vertices from .txt file
+2020-11-09 00:31:55,226 INFO  [main] Perimeter of given Quadrangle is calculated!
+2020-11-09 00:31:55,226 INFO  [main] Area of given Quadrangle is calculated!
+2020-11-09 00:32:33,379 WARN  [main] Incorrect line in .txt file to generate a Point: 4kperkgeor. Let's try the next line.
+2020-11-09 00:32:33,382 INFO  [main] Correct line in .txt file to generate a Point: 5
+2020-11-09 00:32:33,383 INFO  [main] Correct line in .txt file to generate a Point: 7.3
+2020-11-09 00:32:33,383 WARN  [main] Incorrect line in .txt file to generate a Point: 4kperkgeor. Let's try the next line.
+2020-11-09 00:32:33,383 INFO  [main] Correct line in .txt file to generate a Point: 5
+2020-11-09 00:32:33,384 INFO  [main] Correct line in .txt file to generate a Point: 7.3
+2020-11-09 00:32:33,384 WARN  [main] Incorrect line in .txt file to generate a Point: 4kperkgeor. Let's try the next line.
+2020-11-09 00:32:33,385 INFO  [main] Correct line in .txt file to generate a Point: 5
+2020-11-09 00:32:33,385 INFO  [main] Correct line in .txt file to generate a Point: 7.3
+2020-11-09 00:32:33,386 WARN  [main] Incorrect line in .txt file to generate a Point: 4kperkgeor. Let's try the next line.
+2020-11-09 00:32:33,386 INFO  [main] Correct line in .txt file to generate a Point: 5
+2020-11-09 00:32:33,386 INFO  [main] Correct line in .txt file to generate a Point: 7.3
+2020-11-09 00:32:33,387 WARN  [main] Incorrect line in .txt file to generate a Point: 4kperkgeor. Let's try the next line.
+2020-11-09 00:32:33,388 INFO  [main] Correct line in .txt file to generate a Point: 5
+2020-11-09 00:32:33,388 INFO  [main] Correct line in .txt file to generate a Point: 7.3
+2020-11-09 00:32:33,389 INFO  [main] Successfully created new Quadrangle with vertices from .txt file
+2020-11-09 00:32:33,473 INFO  [main] Perimeter of given Quadrangle is calculated!
+2020-11-09 00:32:33,473 INFO  [main] Area of given Quadrangle is calculated!
+2020-11-09 00:33:01,748 WARN  [main] Incorrect line in .txt file to generate a Point: 4kperkgeor. Let's try the next line.
+2020-11-09 00:33:01,752 INFO  [main] Correct line in .txt file to generate a Point: 5
+2020-11-09 00:33:01,752 INFO  [main] Correct line in .txt file to generate a Point: 7.3
+2020-11-09 00:33:01,753 WARN  [main] Incorrect line in .txt file to generate a Point: 4kperkgeor. Let's try the next line.
+2020-11-09 00:33:01,753 INFO  [main] Correct line in .txt file to generate a Point: 5
+2020-11-09 00:33:01,754 INFO  [main] Correct line in .txt file to generate a Point: 7.3
+2020-11-09 00:33:01,754 WARN  [main] Incorrect line in .txt file to generate a Point: 4kperkgeor. Let's try the next line.
+2020-11-09 00:33:01,754 INFO  [main] Correct line in .txt file to generate a Point: 5
+2020-11-09 00:33:01,757 INFO  [main] Correct line in .txt file to generate a Point: 7.3
+2020-11-09 00:33:01,759 WARN  [main] Incorrect line in .txt file to generate a Point: 4kperkgeor. Let's try the next line.
+2020-11-09 00:33:01,759 INFO  [main] Correct line in .txt file to generate a Point: 5
+2020-11-09 00:33:01,760 INFO  [main] Correct line in .txt file to generate a Point: 7.3
+2020-11-09 00:33:01,761 WARN  [main] Incorrect line in .txt file to generate a Point: 4kperkgeor. Let's try the next line.
+2020-11-09 00:33:01,761 INFO  [main] Correct line in .txt file to generate a Point: 5
+2020-11-09 00:33:01,762 INFO  [main] Correct line in .txt file to generate a Point: 7.3
+2020-11-09 00:33:01,764 INFO  [main] Successfully created new Quadrangle with vertices from .txt file
+2020-11-09 00:34:03,325 WARN  [main] Incorrect line in .txt file to generate a Point: 4kperkgeor. Let's try the next line.
+2020-11-09 00:34:03,329 INFO  [main] Correct line in .txt file to generate a Point: 5
+2020-11-09 00:34:03,333 INFO  [main] Correct line in .txt file to generate a Point: 9
+2020-11-09 00:34:03,334 WARN  [main] Incorrect line in .txt file to generate a Point: 4kperkgeor. Let's try the next line.
+2020-11-09 00:34:03,334 INFO  [main] Correct line in .txt file to generate a Point: 5
+2020-11-09 00:34:03,335 INFO  [main] Correct line in .txt file to generate a Point: 9
+2020-11-09 00:34:03,335 WARN  [main] Incorrect line in .txt file to generate a Point: 4kperkgeor. Let's try the next line.
+2020-11-09 00:34:03,336 INFO  [main] Correct line in .txt file to generate a Point: 5
+2020-11-09 00:34:03,336 INFO  [main] Correct line in .txt file to generate a Point: 9
+2020-11-09 00:34:03,337 WARN  [main] Incorrect line in .txt file to generate a Point: 4kperkgeor. Let's try the next line.
+2020-11-09 00:34:03,337 INFO  [main] Correct line in .txt file to generate a Point: 5
+2020-11-09 00:34:03,338 INFO  [main] Correct line in .txt file to generate a Point: 9
+2020-11-09 00:34:03,338 WARN  [main] Incorrect line in .txt file to generate a Point: 4kperkgeor. Let's try the next line.
+2020-11-09 00:34:03,339 INFO  [main] Correct line in .txt file to generate a Point: 5
+2020-11-09 00:34:03,339 INFO  [main] Correct line in .txt file to generate a Point: 9
+2020-11-09 00:34:03,340 INFO  [main] Successfully created new Quadrangle with vertices from .txt file
+2020-11-09 00:34:13,186 WARN  [main] Incorrect line in .txt file to generate a Point: 4kperkgeor. Let's try the next line.
+2020-11-09 00:34:13,194 INFO  [main] Correct line in .txt file to generate a Point: 5
+2020-11-09 00:34:13,194 INFO  [main] Correct line in .txt file to generate a Point: 9
+2020-11-09 00:34:13,195 WARN  [main] Incorrect line in .txt file to generate a Point: 4kperkgeor. Let's try the next line.
+2020-11-09 00:34:13,195 INFO  [main] Correct line in .txt file to generate a Point: 5
+2020-11-09 00:34:13,196 INFO  [main] Correct line in .txt file to generate a Point: 9
+2020-11-09 00:34:13,196 WARN  [main] Incorrect line in .txt file to generate a Point: 4kperkgeor. Let's try the next line.
+2020-11-09 00:34:13,196 INFO  [main] Correct line in .txt file to generate a Point: 5
+2020-11-09 00:34:13,197 INFO  [main] Correct line in .txt file to generate a Point: 9
+2020-11-09 00:34:13,197 WARN  [main] Incorrect line in .txt file to generate a Point: 4kperkgeor. Let's try the next line.
+2020-11-09 00:34:13,197 INFO  [main] Correct line in .txt file to generate a Point: 5
+2020-11-09 00:34:13,198 INFO  [main] Correct line in .txt file to generate a Point: 9
+2020-11-09 00:34:13,198 WARN  [main] Incorrect line in .txt file to generate a Point: 4kperkgeor. Let's try the next line.
+2020-11-09 00:34:13,199 INFO  [main] Correct line in .txt file to generate a Point: 5
+2020-11-09 00:34:13,199 INFO  [main] Correct line in .txt file to generate a Point: 9
+2020-11-09 00:34:13,200 INFO  [main] Successfully created new Quadrangle with vertices from .txt file
+2020-11-09 00:34:13,261 INFO  [main] Perimeter of given Quadrangle is calculated!
+2020-11-09 00:34:13,262 INFO  [main] Area of given Quadrangle is calculated!
+2020-11-09 00:39:14,750 WARN  [main] Incorrect line in .txt file to generate a Point: 4kperkgeor. Let's try the next line.
+2020-11-09 00:39:14,754 INFO  [main] Correct line in .txt file to generate a Point: 5
+2020-11-09 00:39:14,755 INFO  [main] Correct line in .txt file to generate a Point: 9
+2020-11-09 00:39:14,755 WARN  [main] Incorrect line in .txt file to generate a Point: 4kperkgeor. Let's try the next line.
+2020-11-09 00:39:14,756 INFO  [main] Correct line in .txt file to generate a Point: 5
+2020-11-09 00:39:14,757 INFO  [main] Correct line in .txt file to generate a Point: 9
+2020-11-09 00:39:14,757 WARN  [main] Incorrect line in .txt file to generate a Point: 4kperkgeor. Let's try the next line.
+2020-11-09 00:39:14,758 INFO  [main] Correct line in .txt file to generate a Point: 5
+2020-11-09 00:39:14,758 INFO  [main] Correct line in .txt file to generate a Point: 9
+2020-11-09 00:39:14,759 WARN  [main] Incorrect line in .txt file to generate a Point: 4kperkgeor. Let's try the next line.
+2020-11-09 00:39:14,760 INFO  [main] Correct line in .txt file to generate a Point: 5
+2020-11-09 00:39:14,761 INFO  [main] Correct line in .txt file to generate a Point: 9
+2020-11-09 00:39:14,761 WARN  [main] Incorrect line in .txt file to generate a Point: 4kperkgeor. Let's try the next line.
+2020-11-09 00:39:14,762 INFO  [main] Correct line in .txt file to generate a Point: 5
+2020-11-09 00:39:14,762 INFO  [main] Correct line in .txt file to generate a Point: 9
+2020-11-09 00:39:14,763 INFO  [main] Successfully created new Quadrangle with vertices from .txt file
+2020-11-09 00:39:14,850 INFO  [main] Perimeter of given Quadrangle is calculated!
+2020-11-09 00:39:14,850 INFO  [main] Area of given Quadrangle is calculated!
+2020-11-09 00:53:55,740 WARN  [main] Incorrect line in .txt file to generate a Point: 14.0. Let's try the next line.
+2020-11-09 00:53:55,753 WARN  [main] Incorrect line in .txt file to generate a Point: 19.0. Let's try the next line.
+2020-11-09 00:53:55,755 WARN  [main] Incorrect line in .txt file to generate a Point: *incorrect line here*. Let's try the next line.
+2020-11-09 00:53:55,757 WARN  [main] Incorrect line in .txt file to generate a Point: 5.0. Let's try the next line.
+2020-11-09 00:53:55,758 WARN  [main] Incorrect line in .txt file to generate a Point: -6.5. Let's try the next line.
+2020-11-09 00:53:55,758 WARN  [main] Incorrect line in .txt file to generate a Point: *incorrect line here*. Let's try the next line.
+2020-11-09 00:53:55,759 WARN  [main] Incorrect line in .txt file to generate a Point: 3.0. Let's try the next line.
+2020-11-09 00:53:55,762 WARN  [main] Incorrect line in .txt file to generate a Point: -3.0. Let's try the next line.
+2020-11-09 00:53:55,763 WARN  [main] Incorrect line in .txt file to generate a Point: 2.0. Let's try the next line.
+2020-11-09 00:53:55,763 WARN  [main] Incorrect line in .txt file to generate a Point: -2.0. Let's try the next line.
+2020-11-09 00:53:55,763 WARN  [main] Incorrect line in .txt file to generate a Point: 1.0. Let's try the next line.
+2020-11-09 00:53:55,764 WARN  [main] Incorrect line in .txt file to generate a Point: 1.0. Let's try the next line.
+2020-11-09 00:54:37,570 INFO  [main] Correct line in .txt file to generate a Point: 4
+2020-11-09 00:54:37,574 INFO  [main] Correct line in .txt file to generate a Point: 9
+2020-11-09 00:54:37,575 INFO  [main] Correct line in .txt file to generate a Point: 4
+2020-11-09 00:54:37,576 INFO  [main] Correct line in .txt file to generate a Point: 9
+2020-11-09 00:54:37,576 INFO  [main] Correct line in .txt file to generate a Point: 4
+2020-11-09 00:54:37,577 INFO  [main] Correct line in .txt file to generate a Point: 9
+2020-11-09 00:54:37,577 INFO  [main] Correct line in .txt file to generate a Point: 4
+2020-11-09 00:54:37,577 INFO  [main] Correct line in .txt file to generate a Point: 9
+2020-11-09 00:54:37,578 INFO  [main] Correct line in .txt file to generate a Point: 4
+2020-11-09 00:54:37,578 INFO  [main] Correct line in .txt file to generate a Point: 9
+2020-11-09 00:54:37,579 INFO  [main] Successfully created new Quadrangle with vertices from .txt file
+2020-11-09 00:54:37,659 INFO  [main] Perimeter of given Quadrangle is calculated!
+2020-11-09 00:54:37,660 INFO  [main] Area of given Quadrangle is calculated!
+2020-11-09 00:54:59,290 INFO  [main] Correct line in .txt file to generate a Point: 4
+2020-11-09 00:54:59,293 INFO  [main] Correct line in .txt file to generate a Point: 9
+2020-11-09 00:54:59,294 INFO  [main] Correct line in .txt file to generate a Point: 4
+2020-11-09 00:54:59,294 INFO  [main] Correct line in .txt file to generate a Point: 9
+2020-11-09 00:54:59,295 INFO  [main] Correct line in .txt file to generate a Point: 4
+2020-11-09 00:54:59,295 INFO  [main] Correct line in .txt file to generate a Point: 9
+2020-11-09 00:54:59,296 INFO  [main] Correct line in .txt file to generate a Point: 4
+2020-11-09 00:54:59,296 INFO  [main] Correct line in .txt file to generate a Point: 9
+2020-11-09 00:54:59,297 INFO  [main] Correct line in .txt file to generate a Point: 4
+2020-11-09 00:54:59,297 INFO  [main] Correct line in .txt file to generate a Point: 9
+2020-11-09 00:54:59,298 INFO  [main] Successfully created new Quadrangle with vertices from .txt file
+2020-11-09 00:54:59,362 INFO  [main] Perimeter of given Quadrangle is calculated!
+2020-11-09 00:54:59,363 INFO  [main] Area of given Quadrangle is calculated!
+2020-11-09 00:55:52,288 INFO  [main] Correct line in .txt file to generate a Point: -4
+2020-11-09 00:55:52,292 INFO  [main] Correct line in .txt file to generate a Point: -9
+2020-11-09 00:55:52,292 INFO  [main] Correct line in .txt file to generate a Point: -4
+2020-11-09 00:55:52,293 INFO  [main] Correct line in .txt file to generate a Point: -9
+2020-11-09 00:55:52,293 INFO  [main] Correct line in .txt file to generate a Point: -4
+2020-11-09 00:55:52,294 INFO  [main] Correct line in .txt file to generate a Point: -9
+2020-11-09 00:55:52,295 INFO  [main] Correct line in .txt file to generate a Point: -4
+2020-11-09 00:55:52,295 INFO  [main] Correct line in .txt file to generate a Point: -9
+2020-11-09 00:55:52,296 INFO  [main] Correct line in .txt file to generate a Point: -4
+2020-11-09 00:55:52,296 INFO  [main] Correct line in .txt file to generate a Point: -9
+2020-11-09 00:55:52,297 INFO  [main] Successfully created new Quadrangle with vertices from .txt file
+2020-11-09 00:55:52,363 INFO  [main] Perimeter of given Quadrangle is calculated!
+2020-11-09 00:55:52,364 INFO  [main] Area of given Quadrangle is calculated!
+2020-11-09 00:56:30,194 WARN  [main] Incorrect line in .txt file to generate a Point: -4.0. Let's try the next line.
+2020-11-09 00:56:30,197 WARN  [main] Incorrect line in .txt file to generate a Point: -5.0. Let's try the next line.
+2020-11-09 00:56:30,198 WARN  [main] Incorrect line in .txt file to generate a Point: -6.0. Let's try the next line.
+2020-11-09 00:56:30,198 WARN  [main] Incorrect line in .txt file to generate a Point: -7.0. Let's try the next line.
+2020-11-09 00:56:30,199 WARN  [main] Incorrect line in .txt file to generate a Point: -8.0. Let's try the next line.
+2020-11-09 00:56:30,199 WARN  [main] Incorrect line in .txt file to generate a Point: -9.0. Let's try the next line.
+2020-11-09 00:56:30,199 WARN  [main] Incorrect line in .txt file to generate a Point: -10.0. Let's try the next line.
+2020-11-09 00:56:30,200 WARN  [main] Incorrect line in .txt file to generate a Point: -11.0. Let's try the next line.
+2020-11-09 00:56:30,200 WARN  [main] Incorrect line in .txt file to generate a Point: -12.0. Let's try the next line.
+2020-11-09 00:56:30,200 WARN  [main] Incorrect line in .txt file to generate a Point: -13.0. Let's try the next line.
+2020-11-09 00:56:30,201 WARN  [main] Incorrect line in .txt file to generate a Point: -14.0. Let's try the next line.
+2020-11-09 00:56:45,524 WARN  [main] Incorrect line in .txt file to generate a Point: -4.0. Let's try the next line.
+2020-11-09 00:56:45,531 WARN  [main] Incorrect line in .txt file to generate a Point: -5.0. Let's try the next line.
+2020-11-09 00:56:45,532 WARN  [main] Incorrect line in .txt file to generate a Point: -6.0. Let's try the next line.
+2020-11-09 00:56:45,532 WARN  [main] Incorrect line in .txt file to generate a Point: -7.0. Let's try the next line.
+2020-11-09 00:56:45,533 WARN  [main] Incorrect line in .txt file to generate a Point: -8.0. Let's try the next line.
+2020-11-09 00:56:45,533 WARN  [main] Incorrect line in .txt file to generate a Point: -9.0. Let's try the next line.
+2020-11-09 00:56:45,533 WARN  [main] Incorrect line in .txt file to generate a Point: -10.0. Let's try the next line.
+2020-11-09 00:56:45,534 WARN  [main] Incorrect line in .txt file to generate a Point: -11.0. Let's try the next line.
+2020-11-09 00:56:45,534 WARN  [main] Incorrect line in .txt file to generate a Point: -12.0. Let's try the next line.
+2020-11-09 00:56:45,535 WARN  [main] Incorrect line in .txt file to generate a Point: -13.0. Let's try the next line.
+2020-11-09 00:56:45,535 WARN  [main] Incorrect line in .txt file to generate a Point: -14.0. Let's try the next line.
+2020-11-09 00:57:03,225 WARN  [main] Incorrect line in .txt file to generate a Point: -4.0. Let's try the next line.
+2020-11-09 00:57:03,230 WARN  [main] Incorrect line in .txt file to generate a Point: -5.0. Let's try the next line.
+2020-11-09 00:57:03,230 WARN  [main] Incorrect line in .txt file to generate a Point: -6.0. Let's try the next line.
+2020-11-09 00:57:03,231 WARN  [main] Incorrect line in .txt file to generate a Point: -7.0. Let's try the next line.
+2020-11-09 00:57:03,231 WARN  [main] Incorrect line in .txt file to generate a Point: -8.0. Let's try the next line.
+2020-11-09 00:57:03,232 WARN  [main] Incorrect line in .txt file to generate a Point: -9.0. Let's try the next line.
+2020-11-09 00:57:03,232 WARN  [main] Incorrect line in .txt file to generate a Point: -10.0. Let's try the next line.
+2020-11-09 00:57:03,233 WARN  [main] Incorrect line in .txt file to generate a Point: -11.0. Let's try the next line.
+2020-11-09 00:57:03,233 WARN  [main] Incorrect line in .txt file to generate a Point: -12.0. Let's try the next line.
+2020-11-09 00:57:03,234 WARN  [main] Incorrect line in .txt file to generate a Point: -13.0. Let's try the next line.
+2020-11-09 00:57:03,234 WARN  [main] Incorrect line in .txt file to generate a Point: -14.0. Let's try the next line.
+2020-11-09 00:59:35,208 INFO  [main] Correct line in .txt file to generate a Point: -4.0
+2020-11-09 00:59:35,217 INFO  [main] Correct line in .txt file to generate a Point: -9.0
+2020-11-09 00:59:35,218 INFO  [main] Correct line in .txt file to generate a Point: -4.0
+2020-11-09 00:59:35,218 INFO  [main] Correct line in .txt file to generate a Point: -9.0
+2020-11-09 00:59:35,219 INFO  [main] Correct line in .txt file to generate a Point: -4.0
+2020-11-09 00:59:35,219 INFO  [main] Correct line in .txt file to generate a Point: -9.0
+2020-11-09 00:59:35,219 INFO  [main] Correct line in .txt file to generate a Point: -4.0
+2020-11-09 00:59:35,220 INFO  [main] Correct line in .txt file to generate a Point: -9.0
+2020-11-09 00:59:35,220 INFO  [main] Correct line in .txt file to generate a Point: -4.0
+2020-11-09 00:59:35,221 INFO  [main] Correct line in .txt file to generate a Point: -9.0
+2020-11-09 00:59:35,222 INFO  [main] Successfully created new Quadrangle with vertices from .txt file
+2020-11-09 00:59:35,284 INFO  [main] Perimeter of given Quadrangle is calculated!
+2020-11-09 00:59:35,285 INFO  [main] Area of given Quadrangle is calculated!
+2020-11-09 01:01:02,238 INFO  [main] Correct line in .txt file to generate a Point: 1.0
+2020-11-09 01:01:02,241 WARN  [main] Incorrect line in .txt file to generate a Point: *incorrect line here*. Let's try the next line.
+2020-11-09 01:01:02,242 WARN  [main] Incorrect line in .txt file to generate a Point: *incorrect line here*. Let's try the next line.
+2020-11-09 01:01:02,242 WARN  [main] Incorrect line in .txt file to generate a Point: *incorrect line here*. Let's try the next line.
+2020-11-09 01:01:02,243 INFO  [main] Correct line in .txt file to generate a Point: 4.0
+2020-11-09 01:01:02,243 INFO  [main] Correct line in .txt file to generate a Point: 1.0
+2020-11-09 01:01:02,243 WARN  [main] Incorrect line in .txt file to generate a Point: *incorrect line here*. Let's try the next line.
+2020-11-09 01:01:02,244 WARN  [main] Incorrect line in .txt file to generate a Point: *incorrect line here*. Let's try the next line.
+2020-11-09 01:01:02,244 WARN  [main] Incorrect line in .txt file to generate a Point: *incorrect line here*. Let's try the next line.
+2020-11-09 01:01:02,244 INFO  [main] Correct line in .txt file to generate a Point: 4.0
+2020-11-09 01:01:02,245 INFO  [main] Correct line in .txt file to generate a Point: 1.0
+2020-11-09 01:01:02,245 WARN  [main] Incorrect line in .txt file to generate a Point: *incorrect line here*. Let's try the next line.
+2020-11-09 01:01:02,246 WARN  [main] Incorrect line in .txt file to generate a Point: *incorrect line here*. Let's try the next line.
+2020-11-09 01:01:02,246 WARN  [main] Incorrect line in .txt file to generate a Point: *incorrect line here*. Let's try the next line.
+2020-11-09 01:01:02,247 INFO  [main] Correct line in .txt file to generate a Point: 4.0
+2020-11-09 01:01:02,247 INFO  [main] Correct line in .txt file to generate a Point: 1.0
+2020-11-09 01:01:02,247 WARN  [main] Incorrect line in .txt file to generate a Point: *incorrect line here*. Let's try the next line.
+2020-11-09 01:01:02,248 WARN  [main] Incorrect line in .txt file to generate a Point: *incorrect line here*. Let's try the next line.
+2020-11-09 01:01:02,248 WARN  [main] Incorrect line in .txt file to generate a Point: *incorrect line here*. Let's try the next line.
+2020-11-09 01:01:02,248 INFO  [main] Correct line in .txt file to generate a Point: 4.0
+2020-11-09 01:01:02,249 INFO  [main] Correct line in .txt file to generate a Point: 1.0
+2020-11-09 01:01:02,249 WARN  [main] Incorrect line in .txt file to generate a Point: *incorrect line here*. Let's try the next line.
+2020-11-09 01:01:02,250 WARN  [main] Incorrect line in .txt file to generate a Point: *incorrect line here*. Let's try the next line.
+2020-11-09 01:01:02,250 WARN  [main] Incorrect line in .txt file to generate a Point: *incorrect line here*. Let's try the next line.
+2020-11-09 01:01:02,250 INFO  [main] Correct line in .txt file to generate a Point: 4.0
+2020-11-09 01:01:02,251 INFO  [main] Successfully created new Quadrangle with vertices from .txt file
+2020-11-09 01:01:02,306 INFO  [main] Perimeter of given Quadrangle is calculated!
+2020-11-09 01:01:02,306 INFO  [main] Area of given Quadrangle is calculated!
+2020-11-09 01:03:15,155 INFO  [main] Correct line in .txt file to generate a Point: 1.0
+2020-11-09 01:03:15,160 WARN  [main] Incorrect line in .txt file to generate a Point: *incorrect line here*. Let's try the next line.
+2020-11-09 01:03:15,160 WARN  [main] Incorrect line in .txt file to generate a Point: *incorrect line here*. Let's try the next line.
+2020-11-09 01:03:15,161 WARN  [main] Incorrect line in .txt file to generate a Point: *incorrect line here*. Let's try the next line.
+2020-11-09 01:03:15,161 INFO  [main] Correct line in .txt file to generate a Point: 4.0
+2020-11-09 01:03:15,162 INFO  [main] Correct line in .txt file to generate a Point: 1.0
+2020-11-09 01:03:15,163 WARN  [main] Incorrect line in .txt file to generate a Point: *incorrect line here*. Let's try the next line.
+2020-11-09 01:03:15,163 WARN  [main] Incorrect line in .txt file to generate a Point: *incorrect line here*. Let's try the next line.
+2020-11-09 01:03:15,164 WARN  [main] Incorrect line in .txt file to generate a Point: *incorrect line here*. Let's try the next line.
+2020-11-09 01:03:15,165 INFO  [main] Correct line in .txt file to generate a Point: 4.0
+2020-11-09 01:03:15,165 INFO  [main] Correct line in .txt file to generate a Point: 1.0
+2020-11-09 01:03:15,166 WARN  [main] Incorrect line in .txt file to generate a Point: *incorrect line here*. Let's try the next line.
+2020-11-09 01:03:15,167 WARN  [main] Incorrect line in .txt file to generate a Point: *incorrect line here*. Let's try the next line.
+2020-11-09 01:03:15,167 WARN  [main] Incorrect line in .txt file to generate a Point: *incorrect line here*. Let's try the next line.
+2020-11-09 01:03:15,168 INFO  [main] Correct line in .txt file to generate a Point: 4.0
+2020-11-09 01:03:15,169 INFO  [main] Correct line in .txt file to generate a Point: 1.0
+2020-11-09 01:03:15,169 WARN  [main] Incorrect line in .txt file to generate a Point: *incorrect line here*. Let's try the next line.
+2020-11-09 01:03:15,170 WARN  [main] Incorrect line in .txt file to generate a Point: *incorrect line here*. Let's try the next line.
+2020-11-09 01:03:15,170 WARN  [main] Incorrect line in .txt file to generate a Point: *incorrect line here*. Let's try the next line.
+2020-11-09 01:03:15,170 INFO  [main] Correct line in .txt file to generate a Point: 4.0
+2020-11-09 01:03:15,171 INFO  [main] Correct line in .txt file to generate a Point: 1.0
+2020-11-09 01:03:15,172 WARN  [main] Incorrect line in .txt file to generate a Point: *incorrect line here*. Let's try the next line.
+2020-11-09 01:03:15,172 WARN  [main] Incorrect line in .txt file to generate a Point: *incorrect line here*. Let's try the next line.
+2020-11-09 01:03:15,173 WARN  [main] Incorrect line in .txt file to generate a Point: *incorrect line here*. Let's try the next line.
+2020-11-09 01:03:15,173 INFO  [main] Correct line in .txt file to generate a Point: 4.0
+2020-11-09 01:03:15,174 INFO  [main] Successfully created new Quadrangle with vertices from .txt file
+2020-11-09 01:03:15,230 INFO  [main] Perimeter of given Quadrangle is calculated!
+2020-11-09 01:03:15,231 INFO  [main] Area of given Quadrangle is calculated!
+2020-11-09 01:05:27,751 INFO  [main] Correct line in .txt file to generate a Point: 1.0
+2020-11-09 01:05:27,754 WARN  [main] Incorrect line in .txt file to generate a Point: *incorrect line here*. Let's try the next line.
+2020-11-09 01:05:27,755 WARN  [main] Incorrect line in .txt file to generate a Point: *incorrect line here*. Let's try the next line.
+2020-11-09 01:05:27,755 WARN  [main] Incorrect line in .txt file to generate a Point: *incorrect line here*. Let's try the next line.
+2020-11-09 01:05:27,756 INFO  [main] Correct line in .txt file to generate a Point: 4.0
+2020-11-09 01:05:27,756 INFO  [main] Correct line in .txt file to generate a Point: 1.0
+2020-11-09 01:05:27,756 WARN  [main] Incorrect line in .txt file to generate a Point: *incorrect line here*. Let's try the next line.
+2020-11-09 01:05:27,757 WARN  [main] Incorrect line in .txt file to generate a Point: *incorrect line here*. Let's try the next line.
+2020-11-09 01:05:27,757 WARN  [main] Incorrect line in .txt file to generate a Point: *incorrect line here*. Let's try the next line.
+2020-11-09 01:05:27,757 INFO  [main] Correct line in .txt file to generate a Point: 4.0
+2020-11-09 01:05:27,758 INFO  [main] Correct line in .txt file to generate a Point: 1.0
+2020-11-09 01:05:27,758 WARN  [main] Incorrect line in .txt file to generate a Point: *incorrect line here*. Let's try the next line.
+2020-11-09 01:05:27,759 WARN  [main] Incorrect line in .txt file to generate a Point: *incorrect line here*. Let's try the next line.
+2020-11-09 01:05:27,759 WARN  [main] Incorrect line in .txt file to generate a Point: *incorrect line here*. Let's try the next line.
+2020-11-09 01:05:27,759 INFO  [main] Correct line in .txt file to generate a Point: 4.0
+2020-11-09 01:05:27,760 INFO  [main] Correct line in .txt file to generate a Point: 1.0
+2020-11-09 01:05:27,760 WARN  [main] Incorrect line in .txt file to generate a Point: *incorrect line here*. Let's try the next line.
+2020-11-09 01:05:27,761 WARN  [main] Incorrect line in .txt file to generate a Point: *incorrect line here*. Let's try the next line.
+2020-11-09 01:05:27,761 WARN  [main] Incorrect line in .txt file to generate a Point: *incorrect line here*. Let's try the next line.
+2020-11-09 01:05:27,762 INFO  [main] Correct line in .txt file to generate a Point: 4.0
+2020-11-09 01:05:27,762 INFO  [main] Correct line in .txt file to generate a Point: 1.0
+2020-11-09 01:05:27,763 WARN  [main] Incorrect line in .txt file to generate a Point: *incorrect line here*. Let's try the next line.
+2020-11-09 01:05:27,763 WARN  [main] Incorrect line in .txt file to generate a Point: *incorrect line here*. Let's try the next line.
+2020-11-09 01:05:27,763 WARN  [main] Incorrect line in .txt file to generate a Point: *incorrect line here*. Let's try the next line.
+2020-11-09 01:05:27,764 INFO  [main] Correct line in .txt file to generate a Point: 4.0
+2020-11-09 01:05:27,765 INFO  [main] Successfully created new Quadrangle with vertices from .txt file
+2020-11-09 01:05:27,845 INFO  [main] Perimeter of given Quadrangle is calculated!
+2020-11-09 01:05:27,845 INFO  [main] Area of given Quadrangle is calculated!
+2020-11-09 08:54:15,326 INFO  [main] Correct line in .txt file to generate a Point: 1.0
+2020-11-09 08:54:15,330 INFO  [main] Correct line in .txt file to generate a Point: -1.0
+2020-11-09 08:54:15,331 INFO  [main] Correct line in .txt file to generate a Point: 1.0
+2020-11-09 08:54:15,331 INFO  [main] Correct line in .txt file to generate a Point: -1.0
+2020-11-09 08:54:15,332 INFO  [main] Correct line in .txt file to generate a Point: -2.0
+2020-11-09 08:54:15,332 INFO  [main] Correct line in .txt file to generate a Point: 3.0
+2020-11-09 08:54:15,333 WARN  [main] Incorrect line in .txt file to generate a Point: *incorrect line here*. Let's try the next line.
+2020-11-09 08:54:15,333 WARN  [main] Incorrect line in .txt file to generate a Point: *incorrect line here*. Let's try the next line.
+2020-11-09 08:54:15,333 INFO  [main] Correct line in .txt file to generate a Point: 4.0
+2020-11-09 08:54:15,334 WARN  [main] Incorrect line in .txt file to generate a Point: *incorrect line here*. Let's try the next line.
+2020-11-09 08:54:15,334 INFO  [main] Correct line in .txt file to generate a Point: 4.0
+2020-11-09 08:54:15,334 INFO  [main] Correct line in .txt file to generate a Point: -4.0
+2020-11-09 08:54:15,335 INFO  [main] Correct line in .txt file to generate a Point: 5.0
+2020-11-09 08:54:15,336 INFO  [main] Successfully created new Quadrangle with vertices from .txt file
+2020-11-09 08:54:15,420 INFO  [main] Perimeter of given Quadrangle is calculated!
+2020-11-09 08:54:15,421 INFO  [main] Area of given Quadrangle is calculated!
