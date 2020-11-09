@@ -10,6 +10,6 @@ public class PointFactory {
     private static final Logger logger = LogManager.getRootLogger();
 
     public static Point generatePoint(int desiredLine){
-        return new Point(LineParser.filterAndParseLine(3), LineParser.filterAndParseLine(8));
+        return new Point(LineParser.filterAndParseLine(desiredLine), LineParser.filterAndParseLine(desiredLine+1));
     }
 }

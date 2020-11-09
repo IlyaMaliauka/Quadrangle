@@ -6,8 +6,6 @@ import com.epam.automation.entity.quadrangle.QuadrangleType;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-import java.io.IOException;
-
 public class QuadrangleManager {
 
     private final Logger logger = LogManager.getRootLogger();
