@@ -824,3 +824,19 @@
 2020-11-09 01:05:27,765 INFO  [main] Successfully created new Quadrangle with vertices from .txt file
 2020-11-09 01:05:27,845 INFO  [main] Perimeter of given Quadrangle is calculated!
 2020-11-09 01:05:27,845 INFO  [main] Area of given Quadrangle is calculated!
+2020-11-09 08:54:15,326 INFO  [main] Correct line in .txt file to generate a Point: 1.0
+2020-11-09 08:54:15,330 INFO  [main] Correct line in .txt file to generate a Point: -1.0
+2020-11-09 08:54:15,331 INFO  [main] Correct line in .txt file to generate a Point: 1.0
+2020-11-09 08:54:15,331 INFO  [main] Correct line in .txt file to generate a Point: -1.0
+2020-11-09 08:54:15,332 INFO  [main] Correct line in .txt file to generate a Point: -2.0
+2020-11-09 08:54:15,332 INFO  [main] Correct line in .txt file to generate a Point: 3.0
+2020-11-09 08:54:15,333 WARN  [main] Incorrect line in .txt file to generate a Point: *incorrect line here*. Let's try the next line.
+2020-11-09 08:54:15,333 WARN  [main] Incorrect line in .txt file to generate a Point: *incorrect line here*. Let's try the next line.
+2020-11-09 08:54:15,333 INFO  [main] Correct line in .txt file to generate a Point: 4.0
+2020-11-09 08:54:15,334 WARN  [main] Incorrect line in .txt file to generate a Point: *incorrect line here*. Let's try the next line.
+2020-11-09 08:54:15,334 INFO  [main] Correct line in .txt file to generate a Point: 4.0
+2020-11-09 08:54:15,334 INFO  [main] Correct line in .txt file to generate a Point: -4.0
+2020-11-09 08:54:15,335 INFO  [main] Correct line in .txt file to generate a Point: 5.0
+2020-11-09 08:54:15,336 INFO  [main] Successfully created new Quadrangle with vertices from .txt file
+2020-11-09 08:54:15,420 INFO  [main] Perimeter of given Quadrangle is calculated!
+2020-11-09 08:54:15,421 INFO  [main] Area of given Quadrangle is calculated!
